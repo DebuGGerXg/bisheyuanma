@@ -1,2 +1,9 @@
-# bisheyuanma
-管理系统 Java Python C++ 计算机科学毕业设计 软件开发毕业设计 人工智能毕业设计 大数据毕业设计 机器学习毕业设计 数据库设计毕业设计 计算机网络毕业设计 云计算毕业设计 信息安全毕业设计 物联网毕业设计 自然语言处理毕业设计 系统开发毕业设计 嵌入式系统设计毕业设计选题 毕业设计选题指导 计算机项目实践 程序开发项目 Web开发毕业设计 移动应用开发毕业设计 游戏开发毕业设计 操作系统毕业设计 数据结构与算法毕业设计编程辅导 Python编程辅导 Java编程辅导 C++编程辅导 数据结构与算法辅导 软件工程辅导 Web开发辅导 前端开发辅导 后端开发辅导 前端框架辅导 数据库管理辅导 毕业论文撰写 项目设计与开发 论文写作技巧 论文查重与修改 项目报告写作 项目文档撰写
+# 毕设辅导
+## 三年经验，百分百通过 淘宝下单 万元保证金 交易保证
+
+![Classroom](https://github.com/user-attachments/assets/f85f49c0-b595-410d-8c5b-a9e3d9aeb5fa)
+![1211736270135_ pic](https://github.com/user-attachments/assets/8db2029e-ed7c-46a4-bee1-f7dc04f99a54)
+![1221736270137_ pic](https://github.com/user-attachments/assets/6823d354-9e36-45ac-9bfe-cb93e1ab04ee)
+![1231736270139_ pic](https://github.com/user-attachments/assets/ee86aabe-b91c-4fa6-a410-d3ceb0626fa6)
+![1241736270140_ pic](https://github.com/user-attachments/assets/490b6063-b728-4700-87bc-9e75cdfbe27d)
+![1251736270142_ pic](https://github.com/user-attachments/assets/bf2410ce-37dc-4fa6-b71a-7c5e3066e95c)
